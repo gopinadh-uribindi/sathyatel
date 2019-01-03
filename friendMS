@@ -1,0 +1,2 @@
+server.port=4044
+server.servlet.context-path=/sathyatelfriend
