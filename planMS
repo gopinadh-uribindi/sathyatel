@@ -1,0 +1,3 @@
+server.port=4043
+server.servlet.context-path=/sathyatelplan
+spring.jackson.serialization.fail-on-empty-beans=false
